@@ -8,7 +8,7 @@ public class Excercises {
         staggeredNumberLoop();
         inverseStaggeredNumberLoop();
         inverseStaggeredStackedNumberLoop();
-        //weirdNumberLoop();
+        weirdNumberLoop();
     }
     public static void physicsEquation(){
         double s = 2.5;
